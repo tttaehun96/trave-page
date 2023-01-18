@@ -50,3 +50,7 @@ header a:hover {
     background-color: rgb(251, 255,0 );
 
 }
+
+strong {
+    color: aqua;
+}
