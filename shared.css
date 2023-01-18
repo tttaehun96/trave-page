@@ -52,5 +52,28 @@ header a:hover {
 }
 
 strong {
-    color: aqua;
+    color: rgb(2, 85, 85);
 }
+
+footer {
+    background: linear-gradient(70deg, rgb(24, 24, 24), rgb(25, 29, 29));
+}
+
+footer li {
+    width: 80px;
+    height: 80px;
+    margin: 0 50px;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+footer img {
+    width: 100%;
+    height: 100%;
+   
+}
+)
