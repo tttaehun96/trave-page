@@ -58,3 +58,10 @@ main li:nth-of-type(3)
     .actions a:hover {
         background-color: rgb(235,253,255);
     }
+
+    @media(max-width : 1200px) {
+        main ul{
+            grid-template-columns: 100%;
+        }
+    
+    }
